@@ -1,4 +1,4 @@
 package intercepting.filtres;
 
-public interface Filtro {
+public interface Filtre {
 }
