@@ -29,7 +29,8 @@ Construye la aplicación según la arquitectura que se representa en el diagrama
 
 Respeta los nombres de todos los componentes, métodos y propiedades que se indican.
 
-![Diagrama de clases UML Intercepting Filter](./diagrama_clases_UML_intercepting_filter.gif)
+![diagrama_clases_UML_intercepting_filter](https://github.com/Sandra-Eyo/KataMollap/assets/146345642/aa2fbb2e-81d8-4430-9e26-2066a6447dd3)
+
 
 ## Prepara el proyecto
 
