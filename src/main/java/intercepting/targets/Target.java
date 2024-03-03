@@ -1,4 +1,7 @@
 package intercepting.targets;
 
-public class Target {
+public interface Target {
+
+    public void ejecucion(String resultado);
+
 }
